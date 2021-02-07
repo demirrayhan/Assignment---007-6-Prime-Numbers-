@@ -1,4 +1,4 @@
-python_assignment.pyn = int(input("please enter a number : "))
+n = int(input("please enter a number : "))
 prime_number=[]
 for i in range(2,n+1):
     for x in range(2,i):
